@@ -6,9 +6,9 @@ The code generalizes the package conformalInference, precisely when dealing with
 
 Normalized nonconformity scores are computed as:
 
-    R_i = \frac{\lvert \hat{y}_i - y_i \rvert}{\sigma_i},
+![equation](http://latex.codecogs.com/gif.latex?R_i%20%3D%20%5Cfrac%7B%5Clvert%20%5Chat%7By%7D_i%20-%20y_i%20%5Crvert%7D%7B%5Csigma_i%7D%2C)
 
-where the absolute error concerning the $i$th example is scaled using the expected accuracy $\sigma_i$ of the underlying model; see, e.g., \cite{papadopoulos2011reliable}, and \cite{papadopoulos2011regression}.
+where the absolute error concerning the *i*th example is scaled using the expected accuracy $\sigma_i$ of the underlying model; see, e.g., \cite{papadopoulos2011reliable}, and \cite{papadopoulos2011regression}.
 
 $\sigma_i$ is an estimate of the difficulty of predicting the label $y_i$. 
 There is a wide choice of estimates of the accuracy available in the literature. 
