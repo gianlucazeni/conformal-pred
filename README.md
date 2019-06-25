@@ -1,7 +1,8 @@
 # conformal-pred
-Conformal prediction R functions.
-
+Conformal prediction R functions.  
 The code generalizes the package conformalInference, precisely when dealing with the normalization of nonconformity scores.
+
+### Details
 
 Normalized nonconformity scores are computed as:
 
