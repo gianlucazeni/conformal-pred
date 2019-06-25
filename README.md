@@ -19,4 +19,3 @@ More in details, once the underlying algorithm $f$ has been trained and the resi
 
 [1]. Papadopoulos, H., Vovk, V., and Gammerman, A. (2011). Regression conformal prediction with nearest neighbours. *Journal of Artificial Intelligence Research*, 40:815-840        
 [2]. Papadopoulos, H. and Haralambous, H. (2011). Reliable prediction intervals with regression neural networks. *Neural Networks*, 24(8):842-851   
-[3]. John Quincy Adams     
