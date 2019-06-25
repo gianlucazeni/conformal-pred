@@ -1,5 +1,5 @@
 # conformal-pred
-Conformal prediction R functions.  
+
 The code generalizes the R package [conformalInference](https://github.com/ryantibs/conformal), precisely when dealing with the normalization of nonconformity scores.
 
 ### Details
