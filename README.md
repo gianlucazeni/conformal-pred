@@ -6,7 +6,7 @@ The code generalizes the R package [conformalInference](https://github.com/ryant
 
 Normalized nonconformity scores are computed as:
 
-![equation](http://latex.codecogs.com/gif.latex?R_i%20%3D%20%5Cfrac%7B%5Clvert%20%5Chat%7By%7D_i%20-%20y_i%20%5Crvert%7D%7B%5Csigma_i%7D%2C)
+![](https://latex.codecogs.com/gif.latex?\dpi{100}&space;R_i&space;=&space;\frac{\lvert&space;\hat{y}_i&space;-&space;y_i&space;\rvert}{\sigma_i},)
 
 where the absolute error concerning the *i*th example is scaled using the expected accuracy $\sigma_i$ of the underlying model; see, e.g., [1,2].
 
